@@ -12,11 +12,11 @@ if( !isset($_SESSION["nombre"]) || $_SESSION["rol"] != 2 ){
 }
 ?>
 <div id="cuerpo">
-
+//Medio flojo este código
 <form action="validar.php" method="post" class="login"> 
      <p class="tipo"> LOGISITCA DORREGO </p>
     
-    <div><input name="login" type="submit" value="Carga      " ></div> 
+    <div><input name="login" type="submit" value="Carga" ></div> 
 	<div><input name="login" type="submit" value="Consulta"></div> 
 </form> 
 </div>
