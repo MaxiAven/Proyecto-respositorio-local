@@ -13,6 +13,7 @@ if( !isset($_SESSION["nombre"]) || $_SESSION["rol"] != 2 ){
 ?>
 <div id="cuerpo">
 //Medio flojo este código
+// si bueno, sobame la palometa
 <form action="validar.php" method="post" class="login"> 
      <p class="tipo"> LOGISITCA DORREGO </p>
     
